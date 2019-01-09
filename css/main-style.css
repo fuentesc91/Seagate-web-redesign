@@ -1,0 +1,31 @@
+
+.navbar
+{
+  height: 4.5rem;
+}
+
+#search-bar
+{
+  height: 25px;
+  border-radius: 25px;
+}
+
+.bg-black
+{
+  background-color:#161B1F;
+}
+#nav
+{
+  height: 3.5rem;
+}
+
+#nav-link
+{
+  color: #868589;
+  padding: auto 1rem;
+  align-self: center;
+}
+#nav-link:hover
+{
+  color: #6EBE4A;
+}
