@@ -1,8 +1,13 @@
+.bg-white
+{
+  background-color: white;
+}
 
 .navbar
 {
   height: 4.5rem;
 }
+
 
 #search-bar
 {
