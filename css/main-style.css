@@ -13,6 +13,7 @@
 .bg-black
 {
   background-color:#161B1F;
+  color: white;
 }
 #nav
 {
@@ -28,4 +29,26 @@
 #nav-link:hover
 {
   color: #6EBE4A;
+}
+
+.carousel-item
+{
+  height: 412px;
+  width: 100%;
+  
+  background-size: cover;
+  background-position: center;
+}
+
+#carousel-item-1
+{
+  background-image: url("../img/banner-home-2000x412.jpg");
+}
+#carousel-item-2
+{
+  background-image: url("../img/fast-ssd.jpg");
+}
+#carousel-item-3
+{
+  background-image: url("../img/seagate-dji-fly-drive-2000x412.jpg");
 }
