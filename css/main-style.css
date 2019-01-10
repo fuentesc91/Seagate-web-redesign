@@ -1,3 +1,17 @@
+.btnSeagate
+{
+  background-color: #6EBE4A;
+  color: white;
+}
+.btnSeagate:hover
+{
+  background-color:#4E8C38;
+  color: white;
+}
+.backscreen
+{
+  background-color: rgba(0,0,0,0.5);
+}
 
 .navbar
 {
@@ -51,4 +65,11 @@
 #carousel-item-3
 {
   background-image: url("../img/seagate-dji-fly-drive-2000x412.jpg");
+}
+
+.hero-caption
+{
+  color: white;
+  align-items: center;
+  height: 100%;
 }
