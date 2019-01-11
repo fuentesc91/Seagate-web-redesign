@@ -29,3 +29,50 @@
 {
   color: #6EBE4A;
 }
+
+
+.botton-bar-container
+{
+}
+
+#bottom-bar .col,
+#bottom-bar .row{
+  
+}
+
+
+
+
+
+
+.products
+{
+  color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 55% top;
+}
+
+.barracuda
+{
+  background-image: url("../img/banner-tile-mobile-barracuda-ssd-767x170.jpg");
+
+}
+.firecuda
+{
+  background-image: url("../img/banner-tile-mobile-firecuda-ssd-767x170.jpg");
+}
+.ironwolf
+{
+  background-image: url("../img/banner-tile-mobile-ironwolf-ssd-767x170.jpg");
+}
+.register
+{
+  background-color: #B2EAEB;
+  color: black !important;
+}
+.news
+{
+  background-color:#EBE9E2;
+  color: black !important;
+}
